@@ -1,11 +1,16 @@
 _repo: Any-Coincidence-Is--13-Or-The-Day-Julia--amp--Cecil-the-Cat-Faced-a-Fate-Worse-Than-Death_6526
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Callahan, Daniel
     gutenberg_agent_id: '2078'
     url: http://www.gutenberg.org/2009/agents/2078
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/6526#Any-Coincidence-Is--13-Or-The-Day-Julia--amp--Cecil-the-Cat-Faced-a-Fate-Worse-Than-Death
 gutenberg_issued: '2004-09-01'
 gutenberg_type: Text
 identifiers:
